@@ -1,0 +1,6 @@
+Az oldal megjelenítését a csoportok beszéljék meg.
+
+Készíts a kategóriáknak megfelelő php fájlt, menü jelezze a kiválasztott kategóriát.
+
+A foto mappában nem jók a fájlnevek.
+01_nk.jpg a jó formátum.
